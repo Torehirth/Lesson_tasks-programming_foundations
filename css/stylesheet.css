@@ -2,3 +2,7 @@ body {
   background-color: darkslategrey;
   color: lightcyan;
 }
+
+h1 {
+  text-transform: capitalize;
+}
