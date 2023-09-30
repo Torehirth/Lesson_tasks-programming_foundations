@@ -13,7 +13,7 @@ console.log(totalnumber);
 console.log(typeof totalnumber);
 
 // Question 2
-var workingDays = "monday-tuesday-wednesday-thursday-friday";
+var workingDays = "Monday" + "-" + "Tuesday" + "-" + "Wednesday" + "-" + "Thursday" + "-" + "Friday";
 
 console.log(workingDays);
 console.log(typeof workingDays);
@@ -61,11 +61,16 @@ console.log(typeof sentence);
 var timeElapsed;
 var totalPrice;
 
-// Question 7
-var number1 = 53;
-var number2 = parseFloat(44.6);
+// Question 7 - Convert the following string values to number values:
 
-// Question 8
+var number1 = "53";
+var number2 = "44.6";
+
+convertedNumber1 = parseInt(number1);
+convertedNumber2 = parseFloat(number2);
+
+// Question 8 - Check the type of the following variables and log the results:
+
 var pet = "donkey";
 console.log(typeof pet);
 
@@ -78,15 +83,42 @@ console.log(typeof discountApplied);
 var timeLeft;
 console.log(typeof timeLeft);
 
-// Question 9
-// var h1_element = document.querySelector("#h1");
-// h1_element.innerHTML = "Updating heading";
+// Question 9 - Declare and initialise a variable with the value "Updating heading".
+// Question 9 - Select the h1 element on the page and set it's inner HTML value to be the variable created above.
 
-// Question 10
+// var heading = "Updating heading";
+
+// var h1_element = document.querySelector("#h1");
+// h1_element.innerHTML = heading;
+
+// Question 10 - Select the body element on the page and change its background colour to lightskyblue.
+
 // var bodyColor = document.querySelector("#body");
 // bodyColor.style.backgroundColor = "lightskyblue";
 // h1_element.style.color = "black";
 
+// ------------------------------------------------------------------------------------------------------------------------------------
+
 // Part: Making decisions
+// question 1;
+// question 2;
+// question 3;
+// question 4;
+// question 5;
+// question 6;
+// question 7;
+// question 8;
+// question 9;
+// question 10;
 
 // Part: Loops
+// question 1;
+// question 2;
+// question 3;
+// question 4;
+// question 5;
+// question 6;
+// question 7;
+// question 8;
+// question 9;
+// question 10;
