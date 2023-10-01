@@ -1,3 +1,3 @@
-# Lesson tasks in Programming Foundations
+## Lesson tasks in Programming Foundations
 
 ### Modules divided into different branches
