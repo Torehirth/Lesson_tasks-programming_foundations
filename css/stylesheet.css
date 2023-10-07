@@ -1,8 +1,34 @@
+* {
+  text-transform: capitalize;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
   background-color: darkslategrey;
   color: lightcyan;
 }
 
-h1 {
-  text-transform: capitalize;
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+button {
+  padding: 20px 45px;
+  border-radius: 5px;
+  background-color: coral;
+  box-shadow: black 1px 1px 3px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 1em;
 }
