@@ -5,6 +5,6 @@
 
 ---
 
-### Check the other branches!  
+### Module 2
 
 ---
