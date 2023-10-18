@@ -1,8 +1,31 @@
+* {
+  text-transform: capitalize;
+  box-sizing: border-box;
+}
+
+:root {
+  /* colours */
+  --white: #fff;
+  --black: #000;
+  --green: #1deb63;
+  --yellow: #f4f900;
+  --orange: #ff8652;
+  --dark-blue: #01134b;
+  --light-green: hsla(140, 84%, 52%, 0.6);
+  --light-white: hsla(0, 0%, 100%, 0.6);
+}
+
 body {
+  /* display: flex; */
+  /* flex-direction: column; */
   background-color: darkslategrey;
   color: lightcyan;
 }
 
-h1 {
-  text-transform: capitalize;
+.product-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 10px 30px;
+  border: solid white 1px;
 }
