@@ -1,4 +1,4 @@
-# Module 2
+# Arrays of objects example
 
 ## Lesson tasks in Programming Foundations
 
