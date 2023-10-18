@@ -1,5 +1,10 @@
 # Programming Foundations
 
-### Lesson tasks, learning and examples in javascript.
+- Lesson tasks, learning and examples in JavaScript.
+- Modules divided into different branches
 
-**Modules divided into different branches**
+---
+
+### Check the other branches!  
+
+---
