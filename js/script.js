@@ -22,20 +22,26 @@ const products = [
   },
   {
     id: 4,
-    name: "Product 3",
+    name: "Product 4",
     price: 7.99,
     inStock: true,
     color: "green",
   },
   {
     id: 5,
-    name: "Product 3",
+    name: "Product 5",
     price: 1.99,
     inStock: true,
     color: "green",
   },
 ];
 
-const container = document.querySelector("#products-container");
-
 console.log(products);
+
+// ----------------------------------------------------------
+
+for (i = 0; i < products.length; i++) {
+  const heading = document.createElement("h1");
+  heading.innerText = products[i].name;
+  container.append(heading);
+}
