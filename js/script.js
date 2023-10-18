@@ -1,4 +1,4 @@
-// Lesson tasks module 1
+// Lesson tasks module 2
 console.log("Lesson tasks module 2");
 
 // Part: String properties
