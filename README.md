@@ -1,3 +1,5 @@
-## Lesson tasks in Programming Foundations
+# Programming Foundations
 
-### Modules divided into different branches
+### Lesson tasks, learning and examples in javascript.
+
+**Modules divided into different branches**
