@@ -1,5 +1,6 @@
-# Arrays of objects example
+# Programming Foundations
+- Lesson tasks, learning and examples in JavaScript.
 
-## Lesson tasks in Programming Foundations
+### Arrays of objects example
 
-### Modules divided into different branches
+**Modules divided into different branches**
