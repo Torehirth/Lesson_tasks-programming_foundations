@@ -42,6 +42,11 @@ console.log(products);
 
 for (i = 0; i < products.length; i++) {
   const heading = document.createElement("h1");
+  const price = document.createElement("p");
+
   heading.innerText = products[i].name;
+  price.innerText = products[i].price;
+
   container.append(heading);
+  container.append(price);
 }
