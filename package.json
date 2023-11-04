@@ -1,0 +1,14 @@
+{
+  "name": "lesson_tasks-programming_foundations",
+  "version": "1.0.0",
+  "description": "- Lesson tasks, learning and examples in JavaScript.\r - Modules divided into different branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
